@@ -1,10 +1,13 @@
 # SQL Basic recab (Oracle)
-A. DDL (Data Definition Language)
+A. Type Data
+
+B. DDL (Data Definition Language)
    Digunakan untuk mendefinisikan dan mengatur struktur database, seperti create, alter, atau drop tabel.
    1. Create
+      create table nama_table (kolom1 type_data, kolom2 type_data)
    2. Alter
    3. Drop 
-B. DML (Data Manipulation Language)
+C. DML (Data Manipulation Language)
    1. Insert
    2. Update
    3. Delete
