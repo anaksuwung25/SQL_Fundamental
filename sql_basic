@@ -4,9 +4,16 @@ A. Type Data
 B. DDL (Data Definition Language)
    Digunakan untuk mendefinisikan dan mengatur struktur database, seperti create, alter, atau drop tabel.
    1. Create
-      create table nama_table (kolom1 type_data, kolom2 type_data)
+      Digunakan untuk membuat table
+      query : create table nama_table (kolom1 type_data, kolom2 type_data)
    2. Alter
+      Digunakan untuk mengubah strukur table
+      2.1 Alter Rename Kolom
+      2.2 Alter Drop Kolom
+      2.3 Alter Menambah Kolom
+      2.4 Alter Modify Kolom
    3. Drop 
+      Digunakan untuk menghapus table
 C. DML (Data Manipulation Language)
    Digunakan untuk mengelola data dalam tabel, seperti insert, update dan delete.
    1. Insert
