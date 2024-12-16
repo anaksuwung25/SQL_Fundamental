@@ -8,6 +8,19 @@ B. DDL (Data Definition Language)
    2. Alter
    3. Drop 
 C. DML (Data Manipulation Language)
+   Digunakan untuk mengelola data dalam tabel, seperti insert, update dan delete.
    1. Insert
    2. Update
    3. Delete
+D. DQL (Data Query Language)
+   Digunakan untuk mengambil data dari tabel.
+E. DCL (Data Control Language)
+   Digunakan untuk mengatur hak akses pada database.
+   1. Grant
+   2. Revoke
+F. TCL (Transaction Control Language)
+   Digunakan untuk mengelola transaksi 
+   1. Commit
+   2. Savepoint
+   3. Rollback
+   
